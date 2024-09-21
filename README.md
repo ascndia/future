@@ -1,4 +1,5 @@
 - browser / gui app for image and video editor ( priority )
+- open source capcut / alight motion clone ( priority 2 )
 - sandbox fighting games ( unity )
 - gallery with image taggings and management
 - note / knowledge sharing for software enthsuiast
