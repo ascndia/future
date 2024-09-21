@@ -1,0 +1,3 @@
+- browser / gui app for image and video editor ( priority )
+- sandbox fighting games ( unity )
+- gallery with image taggings and management
